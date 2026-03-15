@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "飾って",
+  "base_artist": "大沼パセリ",
+  "createdAt": "2026-03-15T17:03:26.543138Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "飾って",
+      "artist": "大沼パセリ",
+      "has_synced": false,
+      "path": "select/pl_01_飾って_大沼パセリ.txt"
+    }
+  ]
+}
